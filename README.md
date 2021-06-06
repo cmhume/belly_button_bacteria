@@ -13,3 +13,5 @@ link to index.html:https://github.com/cmhume/belly_button_bacteria/blob/851ce9d9
 link to samples.json: https://github.com/cmhume/belly_button_bacteria/blob/851ce9d93689b4f0ee9a14888f8b7b5e9adfa1c1/samples.json
 
 link to styles.css: https://github.com/cmhume/belly_button_bacteria/blob/851ce9d93689b4f0ee9a14888f8b7b5e9adfa1c1/static/css/style.css
+
+github pages: https://cmhume.github.io/belly_button_bacteria/
